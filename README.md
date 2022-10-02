@@ -8,10 +8,10 @@
 ![image](https://user-images.githubusercontent.com/67861872/193453595-8861f1d1-9179-4a95-b593-10f9fab8fe8a.png)
 
 Features Available:
-Online appointment booking (virtual consultancy)
-Appointment Booking with  specialized doctors
-Search Function can help people reach out the best doctors according to their needs
-Database system which will contain records of doctors as well as patients
+1) Online appointment booking (virtual consultancy)
+2) Appointment Booking with  specialized doctors
+3) Search Function can help people reach out the best doctors according to their needs
+4) Database system which will contain records of doctors as well as patients
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/67861872/193453645-afbd447f-0828-434e-af77-a887cc0124dc.png)
